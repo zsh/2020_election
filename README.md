@@ -6,3 +6,4 @@
 
 * [Pennsylvania](plot/pa/nb/)
 
+* [Wisconsin](plot/wi/nb/)
