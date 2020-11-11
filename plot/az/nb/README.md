@@ -12,4 +12,4 @@
 Note: *unofficial* results for 2020
 
 Sources: 
-* https://recorder.maricopa.gov/electionresults
+* https://recorder.maricopa.gov/electionresults (file: ArizonaExportByPrecinct_110320.txt date: 11/10/2020 17:45:34)
