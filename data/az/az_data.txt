@@ -1,1 +1,2 @@
-https://recorder.maricopa.gov/electionresults/ArizonaExportByPrecinct_110320.txt
+url: https://recorder.maricopa.gov/electionresults
+file: ArizonaExportByPrecinct_110320.txt
