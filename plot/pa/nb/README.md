@@ -26,6 +26,12 @@
   
   ![PA_Philadelphia_Trump_Total](png/Trump_PA_Philadelphia_2020_Total_NB.png)
 
+  ![PA_Philadelphia_Clinton_2016_Total](png/Clinton_PA_Philadelphia_2016_Total_NB.png)
+  
+  ![PA_Philadelphia_Trump_2016_Total](png/Trump_PA_Philadelphia_2016_Total_NB.png)
+
+  \* excludes number of zero counts: 481 for Clinton, 2207 for Trump 
+
 * **Chester**
 
   ![PA_Chester_Biden_Total](png/Biden_PA_Chester_2020_Total_NB.png)
@@ -39,4 +45,5 @@ Sources:
 * https://results.enr.clarityelections.com/PA/Allegheny/106267/web.264614/#/detail/0004
 * https://results.philadelphiavotes.com
 * https://pennsylvania.totalvote.com/Chester
+* https://www.philadelphiavotes.com/en/resources-a-data/ballot-box-app
 
