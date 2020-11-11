@@ -2,7 +2,7 @@
 
 **Newcomb-Benford Plots**
 
-* [Arizona](plot/az/nb/README.md)
+* [Arizona](plot/az/nb/)
 
-* [Pennsylvania](plot/pa/nb/README.md)
+* [Pennsylvania](plot/pa/nb/)
 
