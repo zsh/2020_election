@@ -1,0 +1,160 @@
+id,district,votes
+010101,Allentown 1st Ward 1st District,141
+010201,Allentown 2nd Ward 1st District,132
+010301,Allentown 3rd Ward 1st District,173
+010401,Allentown 4th Ward 1st District,101
+010501,Allentown 5th Ward 1st District,111
+010601,Allentown 6th Ward 1st District,90
+010602,Allentown 6th Ward 2nd District,166
+010701,Allentown 7th Ward,185
+010801,Allentown 8th Ward 1st District,76
+010802,Allentown 8th Ward 2nd District,78
+010803,Allentown 8th Ward 3rd District,146
+010804,Allentown 8th Ward 4th District,254
+010805,Allentown 8th Ward 5th District,108
+010806,Allentown 8th Ward 6th District,102
+010807,Allentown 8th Ward 7th District,281
+010901,Allentown 9th Ward 1st District,142
+011001,Allentown 10th Ward 1st District,154
+011003,Allentown 10th Ward 3rd District,136
+011004,Allentown 10th Ward 4th District,114
+011101,Allentown 11th Ward 1st District,124
+011102,Allentown 11th Ward 2nd District,133
+011103,Allentown 11th Ward 3rd District,178
+011104,Allentown 11th Ward 4th District,244
+011105,Allentown 11th Ward 5th District,212
+011106,Allentown 11th Ward 6th District,365
+011107,Allentown 11th Ward 7th District,260
+011201,Allentown 12th Ward 1st District,191
+011202,Allentown 12th Ward 2nd District,282
+011203,Allentown 12th Ward 3rd District,264
+011204,Allentown 12th Ward 4th District,321
+011205,Allentown 12th Ward 5th District,262
+011301,Allentown 13th Ward 1st District,151
+011302,Allentown 13th Ward 2nd District,176
+011303,Allentown 13th Ward 3rd District,209
+011304,Allentown 13th Ward 4th District,142
+011401,Allentown 14th Ward 1st District,354
+011402,Allentown 14th Ward 2nd District,338
+011501,Allentown 15th Ward 1st District,310
+011502,Allentown 15th Ward 2nd District,372
+011503,Allentown 15th Ward 3rd District,373
+011504,Allentown 15th Ward 4th District,274
+011601,Allentown 16th Ward 1st District,279
+011602,Allentown 16th Ward 2nd District,491
+011701,Allentown 17th Ward 1st District,215
+011702,Allentown 17th Ward 2nd District,281
+011703,Allentown 17th Ward 3rd District,288
+011704,Allentown 17th Ward 4th District,217
+011704P,Allentown 17th Ward 4th District Parkland,599
+011801,Allentown 18th Ward 1st District,250
+011802,Allentown 18th Ward 2nd District,385
+011901,Allentown 19th Ward 1st District,230
+011902,Allentown 19th Ward 2nd District,297
+011903,Allentown 19th Ward 3rd District,246
+011904,Allentown 19th Ward 4th District,239
+011905,Allentown 19th Ward 5th District,392
+011906,Allentown 19th Ward 6th District,440
+021001,Bethlehem 10th Ward 1st District,224
+021101,Bethlehem 11th Ward 1st District,214
+021201,Bethlehem 12th Ward 1st District,167
+021202,Bethlehem 12th Ward 2nd District,205
+021301,Bethlehem 13th Ward 1st District,410
+021302,Bethlehem 13th Ward 2nd District,301
+021303,Bethlehem 13th Ward 3rd District,425
+021304,Bethlehem 13th Ward 4th District,447
+021305,Bethlehem 13th Ward 5th District,314
+021306,Bethlehem 13th Ward 6th District,316
+021307,Bethlehem 13th Ward 7th District,298
+021308,Bethlehem 13th Ward 8th District,359
+030101,Alburtis,702
+040101,Catasauqua 1st District,409
+040102,Catasauqua 2nd District,493
+040103,Catasauqua 3rd District,534
+050101,Coopersburg,762
+060101,Coplay 1st District,389
+060102,Coplay 2nd District,471
+070101,Emmaus 1st District,459
+070102,Emmaus 2nd District,468
+070103,Emmaus 3rd District,665
+070104,Emmaus 4th District,522
+070105,Emmaus 5th District,319
+070106,Emmaus 6th District,499
+080101,Fountain Hill 1st District,248
+080102,Fountain Hill 2nd District,229
+080103,Fountain Hill 3rd District,220
+090101,Macungie,847
+100101,Slatington 1st District,329
+100102,Slatington 2nd District,288
+100103,Slatington 3rd District,507
+110101,Hanover,289
+120101,Heidelberg,1324
+130101,Lower Macungie 1st District,1068
+130102,Lower Macungie 2nd District,1726
+130103,Lower Macungie 3rd District,891
+130104,Lower Macungie 4th District,856
+130105,Lower Macungie 5th District,675
+130106,Lower Macungie 6th District,1325
+130107,Lower Macungie 7th District,755
+130108,Lower Macungie 8th District,700
+130109,Lower Macungie 9th District,537
+130110,Lower Macungie 10th District,927
+140101,Lower Milford,1540
+150101,Lowhill,920
+160101,Lynn New Tripoli District,982
+160102,Lynn Lynnville District,302
+160103,Lynn Jacksonville District,447
+170101,North Whitehall 1st District,1308
+170102,North Whitehall 2nd District,1244
+170103,North Whitehall 3rd District,686
+170104,North Whitehall 4th District,910
+170105,North Whitehall 5th District,876
+170106,North Whitehall 6th District,632
+180101,Salisbury 1st Ward,676
+180201,Salisbury 2nd Ward,797
+180301,Salisbury 3rd Ward 1st District,367
+180302,Salisbury 3rd Ward 2nd District,405
+180401,Salisbury 4th Ward 1st District,549
+180402,Salisbury 4th Ward 2nd District,324
+180501,Salisbury 5th Ward 1st District,396
+180502,Salisbury 5th Ward 2nd District,569
+190101,South Whitehall 1st District,921
+190102,South Whitehall 2nd District,437
+190103,South Whitehall 3rd District,828
+190104,South Whitehall 4th District,545
+190105,South Whitehall 5th District,708
+190106,South Whitehall 6th District,624
+190107,South Whitehall 7th District,416
+190108,South Whitehall 8th District,1143
+200101,Upper Macungie 1st District,909
+200102,Upper Macungie 2nd District,1228
+200103,Upper Macungie 3rd District,794
+200104,Upper Macungie 4th District,54
+200105,Upper Macungie 5th District,1488
+200106,Upper Macungie 6th District,560
+200107,Upper Macungie 7th District,614
+200108,Upper Macungie 8th District,608
+210101,Upper Milford Eastern District,1474
+210102,Upper Milford Western District,1367
+220101,Upper Saucon 1st District,1040
+220102,Upper Saucon 2nd District,782
+220103,Upper Saucon 3rd District,550
+220104,Upper Saucon 4th District,1626
+220105,Upper Saucon 5th District,647
+220106,Upper Saucon 6th District,552
+230101,Washington Eastern District,513
+230102,Washington Southern District,1617
+230103,Washington Western District,421
+240101,Weisenberg,2062
+250101,Whitehall 1st District,532
+250102,Whitehall 2nd District,257
+250103,Whitehall 3rd District,279
+250104,Whitehall 4th District,443
+250105,Whitehall 5th District,303
+250106,Whitehall 6th District,480
+250107,Whitehall 7th District,929
+250108,Whitehall 8th District,756
+250109,Whitehall 9th District,535
+250110,Whitehall 10th District,903
+250111,Whitehall 11th District,698
+250112,Whitehall 12th District,527
