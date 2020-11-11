@@ -39,7 +39,7 @@
   ![PA_Chester_Trump_Total](png/Trump_PA_Chester_2020_Total_NB.png)
 
 
-Note: these are *unofficial* results
+Note: *unofficial* results for 2020
 
 Sources: 
 * https://results.enr.clarityelections.com/PA/Allegheny/106267/web.264614/#/detail/0004
